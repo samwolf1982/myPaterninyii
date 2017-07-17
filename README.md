@@ -1,3 +1,12 @@
+my patern list  23
+with out bd
+
+from here  n book
+http://designpatternsphp.readthedocs.io/ru/latest/README.html
+
+
+only console
+
 Yii 2 Basic Project Template
 ============================
 
